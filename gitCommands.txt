@@ -1,0 +1,14 @@
+CHAPTER 1 LEARNINGS(Local git repository functions)
+
+git init - initialise git repository in PWD.
+git add - to add files to staging area
+git commit -m "Message defining commit"
+git status - To check the status of files in pwd(untracked modified etc)
+git log - shows previous commits
+git diff filename.ext - Shows What's been modified.
+git checkout filename.ext - deletes the previous additions and restores previous git commit.
+
+CHAPTER 2(Remote repositories)
+
+
+
